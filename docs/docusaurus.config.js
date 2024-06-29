@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'pan0ram1x', // Usually your GitHub org/user name.
+  organizationName: 'Pan0ram1x', // Usually your GitHub org/user name.
   projectName: 'unifi-cam-proxy', // Usually your repo name.
   trailingSlash: false,
   presets: [
@@ -25,7 +25,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/pan0ram1x/unifi-cam-proxy/tree/main/docs/',
+          editUrl: 'https://github.com/Pan0ram1x/unifi-cam-proxy/tree/main/docs/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -47,7 +47,7 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://github.com/pan0ram1x/unifi-cam-proxy',
+            href: 'https://github.com/Pan0ram1x/unifi-cam-proxy',
             label: 'GitHub',
             position: 'right',
           },
@@ -61,7 +61,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/pan0ram1x/unifi-cam-proxy',
+                href: 'https://github.com/Pan0ram1x/unifi-cam-proxy',
               },
             ],
           },
